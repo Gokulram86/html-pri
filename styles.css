@@ -1,0 +1,14 @@
+body {
+    background-color: #EAF6F6;
+}
+.img {
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 50%;
+    width: 60%;
+}
+footer {
+    color: #5B2C6F;
+}

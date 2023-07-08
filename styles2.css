@@ -1,0 +1,20 @@
+body {
+    background-color: #CCCCFF;
+}
+img{
+    height: 60%;
+    width: 50%;
+}
+div {
+    display: block;
+    text-align: center;
+}
+.text{
+    color: #DE3163;
+    font-family: cursive;
+}
+.pro {
+    text-align: justify;
+    color: darkblue;
+    
+}
